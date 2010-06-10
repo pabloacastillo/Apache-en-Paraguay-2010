@@ -1,0 +1,18 @@
+www.armadaparaguaya.mil.py/
+-----------------RIP-----------------
+www.hmclaboratorio.mil.py/
+>> Microsoft-IIS/7.5
+>> ASP.NET
+>> 0.573349 sec
+www.ejercito.mil.py/
+>> Apache/2.2.0 (Fedora)
+>> None
+>> 0.198069 sec
+www.dgaf.mil.py/
+>> Apache
+>> None
+>> 1.970370 sec
+www.fuerzaaerea.mil.py/
+>> Apache/2.2.10 (Unix) DAV/2 PHP/5.2.8
+>> PHP/5.2.8
+>> 0.585070 sec

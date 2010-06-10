@@ -1,0 +1,68 @@
+PRIMER PASO:
+----------------------------------------------------------------------------------------
+PARA HACER FUNCIONAR LOS SCRIPTS DEBEMOS PRIMERO REALIZAR LA TAREA.
+
+	*********************************************************************************
+	*	ADVERTENCIA:								*
+	*	al hacer correr este script estas rompiendo el TOS de google		*
+	*	ya que los script automatizados (como este) estan prohibidos		*
+	*********************************************************************************
+
+PARA COMENZAR NECESITAMOS NOMBRES DE DOMINIO NACIONALES CON LOS CUALES JUGAR
+POR LO QUE TENEMOS QUE CONSEGUIRLOS. YA QUE NIC.PY NO ME VA A DAR UNA LISTA,
+VAMOS A PREGUNTARLE A GOOGLE.
+
+CORREMOS DESDE LA LINEA DE COMANDOS:
+
+	python search-n-list.py XXX.XX > sites.XXX.XX.txt
+
+
+LAS PRIMERAS XXX PERTENECEN AL TIPO DE SITIO (.com, .edu, .gov, etc). LAS OTRAS
+DOS XX PERTENECEN AL PAIS (py en nuestro caso). POR LO TANTO SI QUEREMOS TODOS
+LOS DOMINIOS .com.py DEBEMOS HACER:
+
+	python search-n-list.py com.py > sites.com.py.txt
+
+
+LA PARTE DE "> sites.com.py.txt" ES PARA VOLCAR EL CONTENIDO DE LA TERMINAL A UN
+ARCHIVO DE TEXTO PLANO DONDE RECOPILAREMOS EL RESULTADO.
+
+
+
+
+
+SEGUNDO PASO:
+----------------------------------------------------------------------------------------
+AHORA QUE TENEMOS LOS ARCHIVOS CON LOS LISTADOS DE DOMINIOS, VAMOS A VER COMO ESTAN
+FUNCIONANDO POR DENTRO.
+
+ESTE SCRIPT BUSCA DOS CABECERAS ESPECIFICAS QUE DEVUELVE (casi) TODO SERVIDOR WEB:
+
+	Server 		-> 	te va a indicar que tipo de servidor se esta utilizando 
+				(IIS, Apache, Tomcat, BMW Webservice)
+	X-Powered-By	->	te devuelve que tipo de script utilizan (PHP, python, 
+				ruby, etc)
+
+
+OK, VEAMOS COMO FUNCIONA:
+
+	python peek-in-server.py sites.com.py.txt 
+	
+	
+LO QUE HARA ESTE SCRIPT ES LEER EL LISTADO DE DOMINIOS QUE GENERASTE ANTES Y MIRAR, 
+DOMINIO POR DOMINIO, ESTAS DOS CABECERAS ESPECIALES.
+VAS A VER QUE TE DEVUELVE 4 COSAS:
+
+	www.dearriba.com.py/
+	>> Apache/2.2.3 (CentOS)
+	>> PHP/5.1.6
+	>> 2.388258 sec
+
+
+EL NOMBRE DEL DOMINIO, EL TIPO DE SERVIDOR, EL SCRIPT UTILIZADO Y EL TIEMPO DE RESPUESTA.
+EN CASO DE QUE EL SERVIDOR NO RESPONDA (pq no quiere o pq esta offline) DEVOLVERA:
+
+	-----------------RIP-----------------
+	
+	
+SI DESEAS REALIZAR UN ANALISIS POSTERIOR, PODES HACER UN DUMP A UN ARCHIVO Y LISTO.

@@ -1,0 +1,1178 @@
+www.urp.org.py/
+>> Microsoft-IIS/5.0
+>> ASP.NET, PHP/4.3.1
+>> 1.364828 sec
+www.observatoriocultural.org.py/
+>> Apache/2.2.10 (Unix) DAV/2 PHP/5.2.8
+>> PHP/5.2.8
+>> 0.264422 sec
+www.decidamos.org.py/
+>> Apache/2.2.14 (Unix) mod_ssl/2.2.14 OpenSSL/0.9.8l DAV/2 mod_auth_passthrough/2.1 FrontPage/5.0.2.2635
+>> PHP/5.2.11
+>> 4.362148 sec
+www.dende.org.py/
+>> Apache/2.2.8 (Ubuntu) PHP/5.2.4-2ubuntu5.7 with Suhosin-Patch mod_ruby/1.2.6 Ruby/1.8.6(2007-09-24) mod_ssl/2.2.8 OpenSSL/0.9.8g
+>> PHP/5.2.4-2ubuntu5.7
+>> 0.295209 sec
+www.sosparaguay.org.py/
+>> Microsoft-IIS/5.0
+>> None
+>> 0.337978 sec
+www.spc.org.py/
+>> Apache/2.2.15 (CentOS) mod_ssl/2.2.15 0.9.8l DAV/2 mod_auth_passthrough/2.1 FrontPage/5.0.2.2635
+>> PHP/5.2.13
+>> 1.399219 sec
+www.spmf.org.py/
+>> Apache
+>> None
+>> 0.259802 sec
+www.spi.org.py/
+>> Apache
+>> PHP/5.2.12
+>> 3.721207 sec
+www.sscc.org.py/
+>> Apache
+>> None
+>> 0.264762 sec
+www.gulcpy.org.py/
+-----------------RIP-----------------
+www.capasu.org.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8n DAV/2 mod_fcgid/2.3.5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.13
+>> 1.613178 sec
+www.sopaci.org.py/
+>> Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 1.465030 sec
+www.tierranueva.org.py/
+>> Apache
+>> PHP/5.2.13
+>> 2.095386 sec
+www.menonitas.org.py/
+>> Apache
+>> PHP/5.2.12
+>> 4.236671 sec
+www.fpw.org.py/
+>> Apache/2.0.52 (CentOS)
+>> None
+>> 1.083588 sec
+www.cepprocal.org.py/
+>> Apache-Coyote/1.1
+>> None
+>> 0.876188 sec
+www.foroagua.org.py/
+>> Apache/2.2.11 (Unix) mod_ssl/2.2.11 OpenSSL/0.9.8i DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.9
+>> 1.648821 sec
+www.turismorural.org.py/
+>> Apache/2.2.3 (CentOS)
+>> None
+>> 0.845112 sec
+www.cerneco.org.py/
+>> Apache
+>> PHP/5.1.6
+>> 0.510145 sec
+www.pdp.org.py/
+>> Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 1.426684 sec
+www.boeteia.org.py/
+>> Apache/2.2.14 (Unix) mod_ssl/2.2.14 OpenSSL/0.9.8e-fips-rhel5 mod_mono/2.6 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 mod_jk/1.2.28
+>> None
+>> 1.774619 sec
+www.cladem.org.py/
+>> Apache/2.2.14 (Unix) mod_ssl/2.2.14 OpenSSL/0.9.8l DAV/2 mod_auth_passthrough/2.1 FrontPage/5.0.2.2635
+>> PHP/5.2.11
+>> 4.455006 sec
+www.fpkb.org.py/
+>> Apache
+>> None
+>> 1.236698 sec
+www.paraguayseguro.org.py/
+>> Apache/2.2.11 (Unix) mod_ssl/2.2.11 OpenSSL/0.9.7a Phusion_Passenger/2.2.11 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 1.101843 sec
+www.red.org.py/
+>> Apache/2.2.3 (CentOS)
+>> None
+>> 3.465555 sec
+www.ape.org.py/
+>> Apache/2.0.52 (CentOS)
+>> None
+>> 0.228324 sec
+www.appg.org.py/
+>> Apache/1.3.41 (Unix) mod_auth_passthrough/1.8 mod_bwlimited/1.4 mod_log_bytes/1.2 mod_ssl/2.8.31 OpenSSL/0.9.8e-fips-rhel5 FrontPage/5.0.2.2635
+>> PHP/4.4.9
+>> 0.881903 sec
+www.ugp.org.py/
+>> Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 1.181149 sec
+www.fedem.org.py/
+>> Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.9
+>> 3.053090 sec
+www.conapi.org.py/
+>> Apache
+>> PHP/5.2.12
+>> 3.500320 sec
+www.cde.org.py/
+>> Apache/2.2.14 (Unix) mod_ssl/2.2.14 OpenSSL/0.9.8l DAV/2 mod_auth_passthrough/2.1 FrontPage/5.0.2.2635
+>> PHP/5.2.11
+>> 4.003159 sec
+www.clei2010.org.py/
+>> Apache/2.2.3 (CentOS)
+>> PHP/5.2.13
+>> 0.795885 sec
+www.capeco.org.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8n DAV/2 mod_fcgid/2.3.5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.13
+>> 2.364858 sec
+www.cepep.org.py/
+>> Apache/2.0.52 (CentOS)
+>> PHP/4.3.9
+>> 0.175212 sec
+www.pojoaju.org.py/
+>> Apache/1.3.41 (Unix) mod_log_bytes/1.2 mod_bwlimited/1.4 mod_auth_passthrough/1.8 FrontPage/5.0.2.2635 DAV/1.0.3 mod_ssl/2.8.31 OpenSSL/0.9.8e-fips-rhel5
+>> None
+>> 1.112499 sec
+www.inecip.org.py/
+>> Apache/2.2.3 (CentOS)
+>> PHP/5.1.6
+>> 0.708429 sec
+www.i3n.org.py/
+>> Microsoft-IIS/6.0
+>> ASP.NET
+>> 2.224950 sec
+www.mtab.org.py/
+>> Apache/2.0.52 (CentOS)
+>> PHP/4.3.9
+>> 0.366119 sec
+www.fundacionvencer.org.py/
+>> Apache
+>> PHP/4.3.9
+>> 0.758907 sec
+www.capasi.org.py/
+>> Apache/2.2.3 (CentOS)
+>> None
+>> 0.804333 sec
+www.academiaparaguayadehistoria.org.py/
+>> Apache/2.2.0 (Fedora)
+>> None
+>> 0.309716 sec
+www.apa.org.py/
+>> Microsoft-IIS/5.0
+>> ASP.NET
+>> 0.220969 sec
+www.fundacionguarani.org.py/
+>> .V01 Apache
+>> None
+>> 1.244987 sec
+www.semillas.org.py/
+>> Apache/2.0.52 (CentOS)
+>> PHP/5.1.6
+>> 1.444088 sec
+www.accp.org.py/
+>> Apache/1.3.41 (Unix) mod_log_bytes/1.2 mod_bwlimited/1.4 mod_auth_passthrough/1.8 FrontPage/5.0.2.2635 DAV/1.0.3 mod_ssl/2.8.31 OpenSSL/0.9.8e-fips-rhel5
+>> PHP/5.2.5
+>> 1.257015 sec
+www.atena.org.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.13
+>> 2.412350 sec
+www.basecta.org.py/
+>> Apache
+>> PHP/5.2.13
+>> 5.736310 sec
+www.ycy.org.py/
+>> Microsoft-IIS/5.0
+>> ASP.NET
+>> 0.254979 sec
+www.abp.org.py/
+>> Apache/2.2.3 (CentOS)
+>> PHP/5.1.6
+>> 0.939886 sec
+www.capuchinosparaguay.org.py/
+>> Apache/2.2.3 (CentOS)
+>> None
+>> 1.326201 sec
+www.fondodeconservaciondebosques.org.py/
+>> Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.9
+>> 2.103957 sec
+www.mitai.org.py/
+>> Apache
+>> None
+>> 1.654677 sec
+www.bancomundial.org.py/
+>> WorldBank Web Server DC2
+>> None
+>> 1.795572 sec
+www.medapy.org.py/
+>> Apache/2.0.52 (CentOS)
+>> None
+>> 0.283622 sec
+www.apudi.org.py/
+>> Microsoft-IIS/5.0
+>> None
+>> 1.616236 sec
+www.brangus.org.py/
+>> Apache/2.2.3 (CentOS)
+>> PHP/5.1.6
+>> 1.610188 sec
+www.aireana.org.py/
+>> Apache/2.2.3 (CentOS)
+>> PHP/5.1.6
+>> 0.829593 sec
+www.schoenstatt.org.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.7a mod_fcgid/2.3.5 Phusion_Passenger/2.2.11 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.13
+>> 1.200290 sec
+www.aper.org.py/
+>> Apache/2.2.8 (Unix) mod_ssl/2.2.8 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 PHP/5.2.6
+>> None
+>> 1.149682 sec
+www.fundacionmilenio.org.py/
+>> Apache/2.0.52 (CentOS)
+>> PHP/5.1.6
+>> 0.930494 sec
+www.arp.org.py/
+>> Apache
+>> None
+>> 1.028029 sec
+www.anr.org.py/
+>> Apache
+>> PHP/5.1.4
+>> 0.281834 sec
+www.feparaj.org.py/
+>> Apache/2.2.11 (Unix) mod_ssl/2.2.11 OpenSSL/0.9.8i DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.9
+>> 0.763192 sec
+www.pmas.org.py/
+>> Apache/1.3.37 (Unix) mod_auth_passthrough/1.8 mod_log_bytes/1.2 mod_bwlimited/1.4 PHP/4.4.4 FrontPage/5.0.2.2635.SR1.2 mod_ssl/2.8.28 OpenSSL/0.9.7a
+>> None
+>> 0.866177 sec
+www.capi.org.py/
+>> Apache/2.2.3 (CentOS)
+>> None
+>> 1.123208 sec
+www.clubcentenario.org.py/
+>> Apache/1.3.41 (Unix) mod_auth_passthrough/1.8 mod_bwlimited/1.4 mod_log_bytes/1.2 mod_ssl/2.8.31 OpenSSL/0.9.8e-fips-rhel5 FrontPage/5.0.2.2635
+>> PHP/5.2.13
+>> 0.347283 sec
+www.ie.org.py/
+>> Apache/2.2.3 (CentOS)
+>> None
+>> 1.038111 sec
+www.fundacionmarcoaguayo.org.py/
+-----------------RIP-----------------
+www.cpk.org.py/
+>> Apache/2.2.3 (CentOS)
+>> PHP/5.1.6
+>> 0.221171 sec
+www.cpi.org.py/
+>> Apache/2.2.11 (Unix) mod_ssl/2.2.11 OpenSSL/0.9.7a Phusion_Passenger/2.2.11 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 0.839773 sec
+www.antonioprovolo.org.py/
+>> Google Frontend
+>> None
+>> 0.985619 sec
+www.bancodeojos.org.py/
+>> Apache/2.2.10 (Unix) DAV/2 PHP/5.2.8
+>> None
+>> 0.280006 sec
+www.asoleu.org.py/
+>> Apache/2.0.52 (CentOS)
+>> None
+>> 0.213883 sec
+www.cibb.org.py/
+>> Apache/1.3.42 (Unix) PHP/5.2.9 mod_log_bytes/1.2 mod_bwlimited/1.4 mod_auth_passthrough/1.8 FrontPage/5.0.2.2635 mod_ssl/2.8.31 OpenSSL/0.9.8e-fips-rhel5
+>> PHP/5.2.9
+>> 1.452305 sec
+www.tercera.org.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8m DAV/2 mod_fcgid/2.3.5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.13
+>> 1.903622 sec
+www.monitoreoalajusticia.org.py/
+>> Apache/2.2.14 (Unix) mod_ssl/2.2.14 OpenSSL/0.9.8m DAV/2 mod_fcgid/2.3.5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 1.265598 sec
+www.financiamientopolitico.org.py/
+>> Apache/2.2.3 (Debian) PHP/5.2.0-8+etch11 mod_ssl/2.2.3 OpenSSL/0.9.8c
+>> PHP/5.2.0-8+etch11
+>> 0.540134 sec
+www.bomberos.org.py/
+>> Apache/2.2.3 (Red Hat)
+>> None
+>> 0.213630 sec
+www.fundacionadventista.org.py/
+>> Apache/2.2.9 (Unix) mod_ssl/2.2.9 OpenSSL/0.9.8e-fips-rhel5 PHP/5.2.6 mod_fastcgi/2.4.6
+>> PHP/5.2.6
+>> 2.101641 sec
+www.sociedadparaguayadeecografia.org.py/
+>> Apache
+>> None
+>> 1.194513 sec
+www.apg.org.py/
+>> Apache
+>> PHP/5.2.13
+>> 2.137204 sec
+www.teleton.org.py/
+>> Apache/2.2.10 (Unix) DAV/2 PHP/5.2.8
+>> None
+>> 0.232601 sec
+www.justiciayelecciones.org.py/
+>> Apache/2.2.3 (CentOS)
+>> None
+>> 0.881461 sec
+www.sonidosdelatierra.org.py/
+>> Apache/2.2.11 (Unix) mod_ssl/2.2.11 OpenSSL/0.9.8i DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.11
+>> 1.304331 sec
+www.cides.org.py/
+>> Apache/2.2.0 (Fedora)
+>> None
+>> 0.312246 sec
+www.coopvillamorra.org.py/
+>> Microsoft-IIS/6.0
+>> ASP.NET
+>> 0.240314 sec
+www.scouts.org.py/
+>> Apache/2.2.14 (Unix) mod_ssl/2.2.14 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.11
+>> 1.062823 sec
+www.cap.org.py/
+>> Apache
+>> PHP/5.1.6
+>> 0.583524 sec
+www.christlicherkongress.org.py/
+>> Microsoft-IIS/5.0
+>> None
+>> 0.378764 sec
+www.midamos.org.py/
+>> Apache/2.2.3 (CentOS)
+>> PHP/5.1.6
+>> 0.259806 sec
+www.embajadabrasil.org.py/
+>> Apache/2.2.10 (Unix) mod_ssl/2.2.10 OpenSSL/0.9.8i DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.9
+>> 1.405483 sec
+www.rednace.org.py/
+>> Apache/2.2.3 (CentOS)
+>> None
+>> 0.190579 sec
+www.gastosocial.org.py/
+>> Apache/2.0.52 (CentOS)
+>> PHP/4.3.9
+>> 0.279455 sec
+www.capaco.org.py/
+>> Apache/2.2.11 (Unix) mod_ssl/2.2.11 OpenSSL/0.9.7a Phusion_Passenger/2.2.11 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 0.649863 sec
+www.fundacionmigliorisi.org.py/
+>> Apache/2.0.54
+>> None
+>> 1.084362 sec
+www.apc.org.py/
+>> Apache/2.0.52 (CentOS)
+>> PHP/4.3.9
+>> 0.155774 sec
+www.caproa.org.py/
+>> Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 PHP/5.3.1
+>> None
+>> 1.224583 sec
+www.enfoqueninez.org.py/
+>> Microsoft-IIS/5.0
+>> None
+>> 0.277111 sec
+www.emprendedor.org.py/
+>> Apache/2.2.10 (Unix) DAV/2 PHP/5.2.8
+>> None
+>> 0.232486 sec
+www.parhupar.org.py/
+>> Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.9
+>> 3.166006 sec
+www.spg.org.py/
+>> Apache/2.2.11 (Unix) mod_ssl/2.2.11 OpenSSL/0.9.7a Phusion_Passenger/2.2.11 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 3.029423 sec
+www.sfa.org.py/
+>> Apache/2.2.3 (CentOS)
+>> PHP/5.1.6
+>> 0.515725 sec
+www.decisiones.org.py/
+>> Apache
+>> PHP/5.2.11
+>> 2.323881 sec
+www.feyalegria.org.py/
+>> Apache/2.2.13 (Unix) mod_ssl/2.2.13 OpenSSL/0.9.8e-fips-rhel5 PHP/5.2.10 mod_fastcgi/2.4.6
+>> None
+>> 0.924533 sec
+www.capro.org.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 mod_perl/2.0.4 Perl/v5.8.8
+>> PHP/5.2.13
+>> 3.319412 sec
+www.cedial.org.py/
+>> Apache/2.2.3 (Red Hat)
+>> None
+>> 1.156412 sec
+www.oftalmologia.org.py/
+>> Apache
+>> None
+>> 2.534432 sec
+www.cep.org.py/
+>> Microsoft-IIS/5.0
+>> ASP.NET, PHP/4.4.6
+>> 0.850347 sec
+www.renaci-mychildmatters.org.py/
+>> Apache
+>> PHP/5.2.13
+>> 2.843657 sec
+www.oei.org.py/
+>> Apache/2.2.13 (Fedora)
+>> None
+>> 0.242444 sec
+www.apapp.org.py/
+>> Apache/2.2.3 (CentOS)
+>> PHP/5.1.6
+>> 0.789554 sec
+www.satoc.org.py/
+>> Microsoft-IIS/5.0
+>> ASP.NET
+>> 0.209892 sec
+www.habitat.org.py/
+>> Apache
+>> None
+>> 2.215436 sec
+www.ctg.org.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8m DAV/2 mod_fcgid/2.3.5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.13
+>> 2.315196 sec
+www.coopexsanjo.org.py/
+>> Microsoft-IIS/5.0
+>> None
+>> 0.209609 sec
+www.linux.org.py/
+>> Apache/2.0.52 (CentOS)
+>> None
+>> 0.309599 sec
+www.embajadadeitalia.org.py/
+>> Apache
+>> None
+>> 0.330268 sec
+www.omi.org.py/
+>> Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 0.784776 sec
+www.apei.org.py/
+>> Apache/2.2.11 (Ubuntu) PHP/5.2.6-3ubuntu4.5 with Suhosin-Patch
+>> None
+>> 0.294389 sec
+www.donbosconosvisita.org.py/
+>> GSE
+>> None
+>> 0.601535 sec
+www.sichap.org.py/
+-----------------RIP-----------------
+www.productosorganicos.org.py/
+>> Apache/2.2.3 (Debian) PHP/5.2.0-8+etch11 mod_ssl/2.2.3 OpenSSL/0.9.8c
+>> PHP/5.2.0-8+etch11
+>> 0.779502 sec
+www.microsol.org.py/
+>> Apache/2.0.52 (CentOS)
+>> PHP/4.3.9
+>> 4.900070 sec
+www.cirugiaplastica.org.py/
+>> Apache/2.2.10 (Linux/SUSE)
+>> PHP/5.2.12
+>> 0.359858 sec
+www.reduccionriesgos.org.py/
+>> Apache/2.2.3 (CentOS)
+>> None
+>> 0.829773 sec
+www.dequeni.org.py/
+>> Apache/1.3.41 (Unix) mod_auth_passthrough/1.8 mod_bwlimited/1.4 mod_log_bytes/1.2 mod_ssl/2.8.31 OpenSSL/0.9.8e-fips-rhel5 FrontPage/5.0.2.2635
+>> PHP/4.4.9
+>> 0.299837 sec
+www.apap.org.py/
+>> Apache/2.0.52 (CentOS)
+>> PHP/4.3.9
+>> 0.572544 sec
+www.iced.org.py/
+>> Apache/2.2.14 (Unix) mod_ssl/2.2.14 OpenSSL/0.9.8l DAV/2 mod_auth_passthrough/2.1 FrontPage/5.0.2.2635
+>> PHP/5.2.11
+>> 7.339948 sec
+www.enalianza.org.py/
+>> Apache
+>> None
+>> 0.342158 sec
+www.fitpar.org.py/
+>> Apache/2.2.11 (Unix) mod_ssl/2.2.11 OpenSSL/0.9.8i DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.9
+>> 0.900577 sec
+www.c28.org.py/
+>> Apache/2.2.14 (Unix) mod_ssl/2.2.14 OpenSSL/0.9.8l DAV/2 mod_auth_passthrough/2.1 FrontPage/5.0.2.2635
+>> PHP/5.2.11
+>> 8.092169 sec
+www.undp.org.py/
+>> Microsoft-IIS/6.0
+>> ASP.NET
+>> 3.018274 sec
+www.oap.org.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8m DAV/2 mod_fcgid/2.3.5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.13
+>> 1.750403 sec
+www.adepo.org.py/
+>> GSE
+>> None
+>> 1.915196 sec
+www.campi.org.py/
+>> Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.9
+>> 1.164328 sec
+www.afs.org.py/
+>> Apache/2.2.3 (Red Hat)
+>> None
+>> 1.170076 sec
+www.becarioscorea.org.py/
+>> Microsoft-IIS/7.0
+>> ASP.NET
+>> 0.609297 sec
+www.fupacel.org.py/
+>> Microsoft-IIS/5.0
+>> None
+>> 0.216186 sec
+www.guyra.org.py/
+>> Apache
+>> PHP/5.2.13
+>> 0.750034 sec
+www.cigre.org.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8m DAV/2 mod_fcgid/2.3.5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.13
+>> 1.865244 sec
+www.apf.org.py/
+>> Apache/2.2.3 (CentOS)
+>> PHP/5.1.6
+>> 3.135096 sec
+www.luzyvida.org.py/
+>> Apache/2.2.14 (Unix) mod_ssl/2.2.14 OpenSSL/0.9.7a mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 mod_jk/1.2.28
+>> None
+>> 1.169309 sec
+www.ipdbs.org.py/
+>> Microsoft-IIS/6.0
+>> ASP.NET
+>> 1.109500 sec
+www.pactoglobal.org.py/
+>> Apache/2.2.13 (FreeBSD) mod_ssl/2.2.13 OpenSSL/0.9.7c DAV/2 PHP/5.2.10 with Suhosin-Patch
+>> PHP/5.2.10
+>> 1.161127 sec
+www.concilio.org.py/
+>> Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 1.217565 sec
+www.fdhs.org.py/
+>> Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 1.191994 sec
+www.schooloftomorrow.org.py/
+>> Apache
+>> None
+>> 0.274411 sec
+www.afumehi.org.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 1.185805 sec
+www.capace.org.py/
+>> Apache/2.2.10 (Unix) mod_ssl/2.2.10 OpenSSL/0.9.8i DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.9
+>> 2.430131 sec
+www.globalinfancia.org.py/
+>> Apache
+>> None
+>> 2.383203 sec
+www.plra.org.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 mod_perl/2.0.4 Perl/v5.8.8
+>> PHP/5.2.13
+>> 0.925753 sec
+www.baseis.org.py/
+>> Apache/2.2.3 (Red Hat)
+>> None
+>> 0.320782 sec
+www.paraguaysilvestre.org.py/
+>> Apache/2.0.52 (CentOS)
+>> PHP/4.3.9
+>> 0.969494 sec
+www.aip.org.py/
+>> Apache/2.0.52 (CentOS)
+>> None
+>> 0.314181 sec
+www.unfpa.org.py/
+>> Apache/2.2.8 (Ubuntu) DAV/2 SVN/1.4.6 PHP/5.2.4-2ubuntu5.10 with Suhosin-Patch mod_ruby/1.2.6 Ruby/1.8.6(2007-09-24) mod_ssl/2.2.8 OpenSSL/0.9.8g
+>> PHP/5.2.4-2ubuntu5.10
+>> 0.282155 sec
+www.steibi.org.py/
+>> Web
+>> None
+>> 1.425034 sec
+www.comunidad.org.py/
+>> Microsoft-IIS/5.0
+>> PHP/5.2.5
+>> 0.479019 sec
+www.capaste.org.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8n DAV/2 mod_fcgid/2.3.5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.13
+>> 1.521733 sec
+www.fenaprofhp.org.py/
+>> Apache/1.3.41 (Unix) mod_log_bytes/1.2 mod_bwlimited/1.4 mod_auth_passthrough/1.8 FrontPage/5.0.2.2635 mod_ssl/2.8.31 OpenSSL/0.9.7a
+>> PHP/5.2.9
+>> 1.467466 sec
+www.cebp.org.py/
+>> Apache/2.2.0 (Fedora)
+>> None
+>> 0.224020 sec
+www.fupadi.org.py/
+>> Microsoft-IIS/6.0
+>> ASP.NET
+>> 0.960957 sec
+www.coofedelmo.org.py/
+>> Apache/2.0.52 (CentOS)
+>> None
+>> 0.249932 sec
+www.cmcp.org.py/
+>> Apache/2.0.52 (CentOS)
+>> PHP/4.3.9
+>> 0.319563 sec
+www.aippi.org.py/
+>> Apache/2.0.52 (CentOS)
+>> None
+>> 0.269724 sec
+www.cird.org.py/
+>> Apache/2.2.3 (CentOS)
+>> PHP/5.1.6
+>> 0.421072 sec
+www.fundacionlibre.org.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8n DAV/2 mod_fcgid/2.3.5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.13
+>> 1.356210 sec
+www.acvp.org.py/
+>> Apache
+>> PHP/5.2.10
+>> 3.155914 sec
+www.iglesiadesordos.org.py/
+>> Apache/2.2.4 (Unix) mod_ssl/2.2.4 OpenSSL/0.9.8e DAV/2 PHP/5.2.4
+>> PHP/5.2.4
+>> 0.462748 sec
+www.juandesalazar.org.py/
+>> Apache/2.2.3 (CentOS)
+>> PHP/5.1.6
+>> 0.850281 sec
+www.uip.org.py/
+>> Apache-Coyote/1.1
+>> None
+>> 1.600291 sec
+www.fundaciongomezmazzei.org.py/
+>> Microsoft-IIS/6.0
+>> ASP.NET
+>> 1.069604 sec
+www.cemta.org.py/
+>> Apache/2.2.13 (Unix) mod_ssl/2.2.13 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_bwlimited/1.4 PHP/5.2.9
+>> PHP/5.2.9
+>> 1.209734 sec
+www.idea.org.py/
+>> Apache
+>> PHP/5.2.13
+>> 1.364512 sec
+www.ctip.org.py/
+>> Apache/2.2.3 (CentOS)
+>> PHP/5.1.6
+>> 0.580439 sec
+www.sobrevivencia.org.py/
+>> Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 1.239415 sec
+www.pdc.org.py/
+-----------------RIP-----------------
+www.corazonesporlainfancia.org.py/
+>> Apache/2.2.11 (Unix) mod_ssl/2.2.11 OpenSSL/0.9.7a Phusion_Passenger/2.2.11 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 1.137538 sec
+www.musicaparaguaya.org.py/
+>> Apache/2.2.14 (Unix) mod_ssl/2.2.14 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 PHP/4.4.9 mod_perl/2.0.4 Perl/v5.8.8
+>> None
+>> 0.786458 sec
+www.elcentinela.org.py/
+>> Apache/2.2.11 (Unix) mod_ssl/2.2.11 OpenSSL/0.9.8i DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.9
+>> 1.838349 sec
+www.fundacionparaguaya.org.py/
+>> Apache/2.2.3 (CentOS)
+>> PHP/5.1.6
+>> 0.590017 sec
+www.lasalle.org.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8m DAV/2 mod_fcgid/2.3.5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.13
+>> 4.130384 sec
+www.sumando.org.py/
+>> Apache
+>> PHP/5.1.6
+>> 0.392830 sec
+www.bomberoscbvp.org.py/
+>> Microsoft-IIS/5.0
+>> ASP.NET
+>> 1.084342 sec
+www.adoptame.org.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 1.011552 sec
+www.muc.org.py/
+>> Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.9
+>> 1.439553 sec
+www.aots.org.py/
+>> Apache/2.2.3 (CentOS)
+>> PHP/5.1.6
+>> 0.420853 sec
+www.apamap.org.py/
+>> Apache/2.0.52 (CentOS)
+>> PHP/4.3.9
+>> 0.258444 sec
+www.cdia.org.py/
+>> Microsoft-IIS/5.0
+>> None
+>> 0.451692 sec
+www.iglesialuterana.org.py/
+>> Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 1.160193 sec
+www.amvepa.org.py/
+>> Apache/2.2.13 (Unix) mod_ssl/2.2.13 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 PHP/5.2.10
+>> PHP/5.2.10
+>> 4.696474 sec
+www.spge.org.py/
+>> Apache/2.0.63
+>> PHP/4.4.9
+>> 1.027617 sec
+www.jopoi.org.py/
+>> Microsoft-IIS/6.0
+>> ASP.NET
+>> 3.689798 sec
+www.ccpy.org.py/
+>> Apache
+>> None
+>> 1.086622 sec
+www.exalumnosale.org.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.13
+>> 0.972854 sec
+www.adefi.org.py/
+>> Apache/2.2.11 (Unix) mod_ssl/2.2.11 OpenSSL/0.9.7a Phusion_Passenger/2.2.11 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 1.035350 sec
+www.solnaciente.org.py/
+>> Apache
+>> None
+>> 0.204668 sec
+www.aparh.org.py/
+>> Apache
+>> None
+>> 1.159551 sec
+www.salesianos.org.py/
+>> Apache/2.2.3 (CentOS)
+>> PHP/5.1.6
+>> 0.565432 sec
+www.fedepa.org.py/
+>> Apache/2.2.0 (Fedora)
+>> None
+>> 0.246381 sec
+www.spot.org.py/
+>> Apache/2.2.11 (Unix) mod_ssl/2.2.11 OpenSSL/0.9.7a Phusion_Passenger/2.2.11 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.8
+>> 1.940305 sec
+www.appeby.org.py/
+>> Apache/2.2.9 (Win32) DAV/2 mod_ssl/2.2.9 OpenSSL/0.9.8h mod_autoindex_color PHP/5.2.6
+>> PHP/5.2.6
+>> 0.623232 sec
+www.spo.org.py/
+>> Apache/2.2.11 (Unix) mod_ssl/2.2.11 OpenSSL/0.9.7e mod_auth_pgsql/2.0.3
+>> None
+>> 1.225393 sec
+www.lbv.org.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.13
+>> 1.070792 sec
+www.comip.org.py/
+>> Apache/2.2.4 (Unix) mod_ssl/2.2.4 OpenSSL/0.9.8e DAV/2 PHP/5.2.4
+>> None
+>> 0.239924 sec
+www.acip.org.py/
+>> Apache/1.3.41 (Unix) mod_log_bytes/1.2 mod_bwlimited/1.4 mod_auth_passthrough/1.8 FrontPage/5.0.2.2635 DAV/1.0.3 mod_ssl/2.8.31 OpenSSL/0.9.8e-fips-rhel5
+>> None
+>> 1.180204 sec
+www.iica.org.py/
+>> Microsoft-IIS/6.0
+>> ASP.NET
+>> 0.165536 sec
+www.aihpy.org.py/
+>> Apache/2.0.63
+>> PHP/5.2.6
+>> 1.789478 sec
+www.jesusresponde.org.py/
+>> Apache/2.2.13 (FreeBSD) mod_ssl/2.2.13 OpenSSL/0.9.7c DAV/2 PHP/5.2.10 with Suhosin-Patch
+>> None
+>> 0.658293 sec
+www.medalla.org.py/
+>> Apache/2.2.0 (Linux/SUSE)
+>> PHP/5.1.2
+>> 0.279660 sec
+www.cej.org.py/
+>> Apache/2.2.3 (CentOS)
+>> None
+>> 0.892797 sec
+www.ceri.org.py/
+>> Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.9
+>> 4.128491 sec
+www.cajubi.org.py/
+>> Microsoft-IIS/5.0
+>> ASP.NET
+>> 0.420358 sec
+www.intercoop.org.py/
+>> Apache/2.2.10 (Unix) DAV/2 PHP/5.2.8
+>> None
+>> 0.274115 sec
+www.emociones.org.py/
+>> Apache/2.0.52 (CentOS)
+>> None
+>> 0.344844 sec
+www.corazoncitos.org.py/
+>> Apache/2.2.10 (Unix) mod_ssl/2.2.10 OpenSSL/0.9.8i DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.9
+>> 11.403683 sec
+www.empleojoven.org.py/
+-----------------RIP-----------------
+www.salazarte.org.py/
+>> Apache/2.0.52 (CentOS)
+>> PHP/4.3.9
+>> 0.331005 sec
+www.asatur.org.py/
+>> Apache
+>> PHP/4.3.9
+>> 0.280710 sec
+www.spaai.org.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.13
+>> 1.120742 sec
+www.elcirculo.org.py/
+>> Apache/2.2.3 (CentOS)
+>> None
+>> 1.097752 sec
+www.cea.org.py/
+>> Apache
+>> PHP/5.2.10
+>> 1.090564 sec
+www.pci.org.py/
+>> Apache/2.2.8 (Ubuntu) mod_jk/1.2.25 mod_python/3.3.1 Python/2.5.2 PHP/5.2.4-2ubuntu5.10 with Suhosin-Patch mod_ssl/2.2.8 OpenSSL/0.9.8g mod_perl/2.0.3 Perl/v5.8.8
+>> PHP/5.2.4-2ubuntu5.10
+>> 1.582420 sec
+www.diben.org.py/
+>> Apache/2.2.10 (Unix) DAV/2 PHP/5.2.8
+>> PHP/5.2.8
+>> 0.212709 sec
+www.ceniju.org.py/
+>> Microsoft-IIS/6.0
+>> ASP.NET
+>> 5.354750 sec
+www.omapa.org.py/
+>> Apache/2.0.63 (CentOS)
+>> PHP/5.2.10
+>> 0.267372 sec
+www.wwf.org.py/
+>> Apache/2.2.3 (CentOS)
+>> None
+>> 0.948591 sec
+www.expo.org.py/
+>> Apache/2.2.13 (FreeBSD) mod_ssl/2.2.13 OpenSSL/0.9.7c DAV/2 PHP/5.2.10 with Suhosin-Patch
+>> PHP/5.2.10
+>> 1.075239 sec
+www.appf.org.py/
+>> Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 1.215083 sec
+www.centromilitar.org.py/
+>> Apache/2.2.14 (Unix) mod_ssl/2.2.14 OpenSSL/0.9.8l DAV/2 mod_auth_passthrough/2.1 FrontPage/5.0.2.2635
+>> PHP/5.2.11
+>> 2.134234 sec
+www.mmsl.org.py/
+>> Apache/2.2.0 (Fedora)
+>> None
+>> 0.303686 sec
+www.fundaciontobati.org.py/
+>> Apache/2.2.11 (Unix) mod_ssl/2.2.11 OpenSSL/0.9.7a Phusion_Passenger/2.2.11 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 1.250692 sec
+www.embaven.org.py/
+>> Apache/2.2.8 (Ubuntu) PHP/5.2.4-2ubuntu5.3 with Suhosin-Patch
+>> None
+>> 0.155715 sec
+www.canaan.org.py/
+>> Apache/1.3.41 (Unix) mod_gzip/1.3.26.1a PHP/4.4.8 mod_throttle/3.1.2 FrontPage/5.0.2.2635 mod_psoft_traffic/0.2 mod_ssl/2.8.31 OpenSSL/0.9.7a mod_jk/1.2.26
+>> None
+>> 0.840666 sec
+www.hunetc.org.py/
+>> Apache/2.0.52 (CentOS)
+>> None
+>> 0.267074 sec
+www.aprosemp.org.py/
+>> Apache/2.2.10 (Unix) mod_ssl/2.2.10 OpenSSL/0.9.8i DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 1.225902 sec
+www.cnt.org.py/
+>> Apache
+>> None
+>> 0.296726 sec
+www.iglesiakadosh.org.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.13
+>> 1.363565 sec
+www.bancodealimentos.org.py/
+>> Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 1.224375 sec
+www.vue.org.py/
+>> Oracle-Application-Server-10g/10.1.2.0.2 Oracle-HTTP-Server OracleAS-Web-Cache-10g/10.1.2.0.2 (G;max-age=0+0;age=0;ecid=71560629861,0)
+>> None
+>> 0.217479 sec
+www.ccab.org.py/
+>> Apache/2.0.52 (CentOS)
+>> PHP/4.3.9
+>> 0.608409 sec
+www.fpc.org.py/
+>> Apache/2.2.14 (EL)
+>> PHP/5.2.11
+>> 0.269972 sec
+www.educacionadventista.org.py/
+>> Apache/2.2.9 (Unix) mod_ssl/2.2.9 OpenSSL/0.9.8e-fips-rhel5 PHP/5.2.6 mod_fastcgi/2.4.6
+>> PHP/5.2.6
+>> 1.506088 sec
+www.sai.org.py/
+>> Apache/2.2.3 (CentOS)
+>> PHP/5.1.6
+>> 0.624303 sec
+www.capadi.org.py/
+>> Apache/2.0.51 (Fedora)
+>> PHP/4.3.8
+>> 0.259075 sec
+www.biocap.org.py/
+>> Apache/2.2.10 (Unix) mod_ssl/2.2.10 OpenSSL/0.9.8i DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.9
+>> 1.310793 sec
+www.embperu.org.py/
+>> Microsoft-IIS/6.0
+>> ASP.NET
+>> 4.548931 sec
+www.conin.org.py/
+>> Microsoft-IIS/6.0
+>> ASP.NET
+>> 1.135439 sec
+www.prodeco.org.py/
+>> Apache/2.0.52 (CentOS)
+>> None
+>> 0.229265 sec
+www.fundahemo.org.py/
+>> Apache/2.2.3 (CentOS)
+>> PHP/5.1.6
+>> 1.255311 sec
+www.funiber.org.py/
+>> Apache/2.2.3 (Debian) PHP/4.4.4-8+etch6
+>> PHP/4.4.4-8+etch6
+>> 1.436117 sec
+www.amjp.org.py/
+>> Apache/2.2.0 (Fedora)
+>> None
+>> 0.188901 sec
+www.usuarios.org.py/
+-----------------RIP-----------------
+www.ceamso.org.py/
+>> Apache/2.2.3 (CentOS)
+>> PHP/5.1.6
+>> 0.875289 sec
+www.caridad3.org.py/
+>> Apache/2.2.3 (CentOS)
+>> None
+>> 1.315814 sec
+www.cosolpy.org.py/
+>> Apache
+>> PHP/5.2.13
+>> 1.872943 sec
+www.fopep.org.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8n DAV/2 mod_fcgid/2.3.5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 1.326663 sec
+www.cptln.org.py/
+>> Apache/1.3.41 (Unix) mod_fastcgi/2.4.2 PHP/5.2.3 mod_deflate/1.0.21 mod_jk/1.2.14 mod_auth_passthrough/1.8 mod_log_bytes/1.2 mod_bwlimited/1.4 PHP/4.4.9 FrontPage/5.0.2.2634a mod_ssl/2.8.31 OpenSSL/0.9.7a
+>> PHP/4.4.9
+>> 1.185805 sec
+www.saraki.org.py/
+>> Apache
+>> PHP/5.1.6
+>> 0.461530 sec
+www.mnt.org.py/
+>> Apache
+>> PHP/5.2.10
+>> 1.153567 sec
+www.agfcca.org.py/
+>> Apache/2.2.10 (Unix) DAV/2 PHP/5.2.8
+>> PHP/5.2.8
+>> 0.931917 sec
+www.gestionlocal.org.py/
+>> Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.9
+>> 1.372836 sec
+www.primeroparaguay.org.py/
+>> Apache
+>> PHP/5.2.10
+>> 0.745100 sec
+www.aistel.org.py/
+>> Apache/2.2.4 (Unix) mod_ssl/2.2.4 OpenSSL/0.9.8e DAV/2 PHP/5.2.4
+>> PHP/5.2.4
+>> 2.205514 sec
+www.buengobierno.org.py/
+>> Apache/2.2.3 (CentOS)
+>> PHP/5.1.6
+>> 0.675622 sec
+www.aquieneselegimos.org.py/
+>> Apache/2.2.8 (Ubuntu) PHP/5.2.4-2ubuntu5.10 with Suhosin-Patch mod_ssl/2.2.8 OpenSSL/0.9.8g
+>> PHP/5.2.4-2ubuntu5.10
+>> 0.233992 sec
+www.cip.org.py/
+>> Apache
+>> PHP/5.1.6
+>> 0.348225 sec
+www.mbertoni.org.py/
+>> Apache/2.2.3 (CentOS)
+>> PHP/5.2.6
+>> 1.266572 sec
+www.fundacionpanal.org.py/
+>> Apache/2.0.52 (CentOS)
+>> PHP/4.3.9
+>> 0.196042 sec
+www.masquevencedores.org.py/
+>> Apache
+>> None
+>> 1.243442 sec
+www.cruzroja.org.py/
+>> Apache/1.3.41 (Unix) mod_auth_passthrough/1.8 mod_bwlimited/1.4 mod_log_bytes/1.2 mod_ssl/2.8.31 OpenSSL/0.9.8e-fips-rhel5 FrontPage/5.0.2.2635
+>> PHP/5.2.13
+>> 0.361250 sec
+www.buscandolavida.org.py/
+>> Apache/2.2.14 (Unix) mod_ssl/2.2.14 OpenSSL/0.9.8e-fips-rhel5 DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 1.394325 sec
+www.exacristorey.org.py/
+>> Apache/2.2.3 (CentOS)
+>> None
+>> 0.233637 sec
+www.ims.org.py/
+>> Apache/2.2.0 (Fedora)
+>> None
+>> 0.335646 sec
+www.fundacionsolidaridad.org.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8n DAV/2 mod_fcgid/2.3.5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.13
+>> 10.045771 sec
+www.cambioclimatico.org.py/
+>> Apache/2.0.52 (Fedora)
+>> PHP/4.3.9
+>> 0.460175 sec
+www.sindicatodeperiodistas.org.py/
+>> Apache
+>> None
+>> 0.354367 sec
+www.cime.org.py/
+>> Apache
+>> None
+>> 0.786055 sec
+www.campyarg.org.py/
+>> Microsoft-IIS/5.0
+>> None
+>> 0.229783 sec
+www.aicp.org.py/
+>> Microsoft-IIS/5.0
+>> None
+>> 0.388290 sec
+www.fptm.org.py/
+>> Apache/1.3.41 (Unix) mod_auth_passthrough/1.8 mod_bwlimited/1.4 mod_log_bytes/1.2 mod_ssl/2.8.31 OpenSSL/0.9.8e-fips-rhel5 FrontPage/5.0.2.2635
+>> PHP/5.2.13
+>> 0.410076 sec
+www.episcopal.org.py/
+>> Apache/2.2.10 (Unix) mod_ssl/2.2.10 OpenSSL/0.9.8i DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.9
+>> 1.305451 sec
+www.arzobispado.org.py/
+>> Apache/2.2.10 (Unix) mod_ssl/2.2.10 OpenSSL/0.9.8i DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.9
+>> 1.324586 sec
+www.kolping.org.py/
+>> Apache
+>> None
+>> 1.225432 sec
+www.pti.org.py/
+>> Apache
+>> None
+>> 0.249866 sec
+www.transparenciaenroyalties.org.py/
+>> Apache/2.2.3 (Debian) PHP/5.2.0-8+etch11 mod_ssl/2.2.3 OpenSSL/0.9.8c
+>> PHP/5.2.0-8+etch11
+>> 3.145613 sec
+www.helvetas.org.py/
+>> Apache/2.2.11 (Unix) mod_ssl/2.2.11 OpenSSL/0.9.8e-fips-rhel5 PHP/4.4.9 mod_fastcgi/2.4.6
+>> None
+>> 1.649329 sec
+www.redrural.org.py/
+>> Apache
+>> PHP/5.2.13
+>> 3.287099 sec
+www.sps.org.py/
+>> Apache
+>> PHP/5.1.6
+>> 0.374880 sec
+www.fao.org.py/
+>> Apache/2.0.52 (CentOS)
+>> PHP/4.3.9
+>> 1.165064 sec
+www.fefusi.org.py/
+-----------------RIP-----------------
+www.unesn.org.py/
+>> Microsoft-IIS/5.0
+>> None
+>> 0.267176 sec
+www.fundacionlibertad.org.py/
+>> Apache/2.2.10 (Unix) mod_ssl/2.2.10 OpenSSL/0.9.8i DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.9
+>> 1.137631 sec
+www.operacionsonrisa.org.py/
+>> Apache
+>> PHP/5.3.1
+>> 0.586775 sec
+www.cedep.org.py/
+>> Apache/1.3.41 (Unix) mod_auth_passthrough/1.8 mod_bwlimited/1.4 mod_log_bytes/1.2 mod_ssl/2.8.31 OpenSSL/0.9.8e-fips-rhel5 FrontPage/5.0.2.2635
+>> PHP/5.2.13
+>> 1.395423 sec
+www.cectec.org.py/
+>> Apache/2.2.4 (Fedora)
+>> None
+>> 0.210083 sec
+www.apep.org.py/
+>> Apache/2.2.11 (Unix) mod_ssl/2.2.11 OpenSSL/0.9.7a Phusion_Passenger/2.2.11 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.8
+>> 1.655560 sec
+www.sporlccc.org.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 1.424243 sec
+www.aebpj.org.py/
+>> Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 1.380025 sec

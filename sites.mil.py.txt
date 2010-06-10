@@ -1,0 +1,5 @@
+www.armadaparaguaya.mil.py/
+www.hmclaboratorio.mil.py/
+www.ejercito.mil.py/
+www.dgaf.mil.py/
+www.fuerzaaerea.mil.py/

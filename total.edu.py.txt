@@ -1,0 +1,144 @@
+www.isiltech.edu.py/
+>> Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.9
+>> 1.887239 sec
+www.uap.edu.py/
+>> Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 mod_apreq2-20090110/2.7.1 mod_perl/2.0.4 Perl/v5.10.1
+>> None
+>> 0.303360 sec
+www.cebanc.edu.py/
+>> Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.9
+>> 2.171950 sec
+www.lasalmenas.edu.py/
+>> Apache/2.2.11 (Ubuntu) PHP/5.2.6-3ubuntu4.2 with Suhosin-Patch
+>> PHP/5.2.6-3ubuntu4.2
+>> 2.289142 sec
+www.upap.edu.py/
+>> Apache/2.2.10 (Linux/SUSE)
+>> None
+>> 0.235246 sec
+www.kinder.edu.py/
+>> Apache/2.2.3 (CentOS)
+>> PHP/5.2.10
+>> 2.227564 sec
+www.humanidadesunp.edu.py/
+>> Apache/2.2.3 (CentOS)
+>> None
+>> 0.810058 sec
+www.unae.edu.py/
+>> Apache
+>> None
+>> 5.475030 sec
+www.snpp.edu.py/
+>> Apache
+>> None
+>> 0.259295 sec
+www.upe.edu.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8m DAV/2 mod_fcgid/2.3.5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 1.251052 sec
+www.utic.edu.py/
+>> Apache/2.0.52 (CentOS)
+>> PHP/4.3.9
+>> 0.238110 sec
+www.uamericana.edu.py/
+>> Apache/2.2.3 (CentOS)
+>> PHP/5.2.11
+>> 0.297132 sec
+www.une.edu.py/
+>> Apache/2.2.11 (Unix) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i PHP/5.2.8 mod_apreq2-20051231/2.6.0 mod_perl/2.0.4 Perl/v5.10.0
+>> None
+>> 0.363739 sec
+www.universidadevangelica.edu.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8m DAV/2 mod_fcgid/2.3.5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.13
+>> 2.227114 sec
+www.ucc.edu.py/
+>> Apache/2.2.3 (CentOS)
+>> PHP/5.1.6
+>> 0.494335 sec
+www.serranauniversidad.edu.py/
+>> Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 PHP/5.2.8 mod_perl/2.0.4 Perl/v5.8.8
+>> PHP/5.2.8
+>> 0.336089 sec
+www.uninorte.edu.py/
+>> Apache/2.2.4 (Win32) DAV/2 mod_ssl/2.2.4 OpenSSL/0.9.8e mod_autoindex_color PHP/5.2.3
+>> PHP/5.2.3
+>> 0.954064 sec
+www.arandurape.edu.py/
+>> Microsoft-IIS/7.0
+>> ASP.NET
+>> 0.838829 sec
+www.fderecho.edu.py/
+>> Apache/2.2.11 (Ubuntu) PHP/5.2.6-3ubuntu4.5 with Suhosin-Patch
+>> None
+>> 0.240290 sec
+www.icc.edu.py/
+>> Apache/2.0.52 (CentOS)
+>> PHP/5.1.6
+>> 1.866669 sec
+www.artstudium.edu.py/
+>> Apache
+>> None
+>> 0.253662 sec
+www.aulaviva.edu.py/
+>> Apache/2.2.9 (Fedora)
+>> None
+>> 0.334696 sec
+www.fpune.edu.py/
+>> Apache/2.2.14 (Unix) mod_ssl/2.2.14 OpenSSL/0.9.8e-fips-rhel5 mod_mono/2.6 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 mod_jk/1.2.28
+>> None
+>> 1.394072 sec
+www.unp.edu.py/
+>> Apache
+>> None
+>> 1.395416 sec
+www.unisal.edu.py/
+>> Apache/2.0.52 (CentOS)
+>> None
+>> 0.154764 sec
+www.fpuna.edu.py/
+>> Apache/2.0.54 (Fedora)
+>> PHP/5.0.4
+>> 4.523861 sec
+www.fiaune.edu.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8m DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 1.202295 sec
+www.colegiogirasoles.edu.py/
+>> Apache/2.2.3 (CentOS)
+>> None
+>> 5.450350 sec
+www.isepol.edu.py/
+>> Apache/2.2.15 (Unix) mod_ssl/2.2.15 OpenSSL/0.9.8m DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> None
+>> 1.814069 sec
+www.isil.edu.py/
+>> Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.9
+>> 1.537221 sec
+www.gamma.edu.py/
+>> Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.9
+>> 2.051770 sec
+www.openuniversity.edu.py/
+>> Apache/1.3.41 (Unix) mod_gzip/1.3.26.1a PHP/4.4.8 mod_throttle/3.1.2 FrontPage/5.0.2.2635 mod_psoft_traffic/0.2 mod_ssl/2.8.31 OpenSSL/0.9.7a mod_jk/1.2.26
+>> None
+>> 0.846051 sec
+www.ateneoguarani.edu.py/
+>> Apache/2.2.14 (Unix) mod_ssl/2.2.14 OpenSSL/0.9.8i DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+>> PHP/5.2.11
+>> 0.934530 sec
+www.ctne.edu.py/
+>> Apache/2.2.3 (CentOS)
+>> None
+>> 1.295920 sec
+www.mecprodepa.edu.py/
+>> Microsoft-IIS/7.0
+>> PHP/5.2.12, ASP.NET
+>> 1.040573 sec
+www.uca.edu.py/
+>> Apache
+>> PHP/5.2.4
+>> 0.628975 sec

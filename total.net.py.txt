@@ -1,0 +1,96 @@
+www.personal.net.py/
+>> Microsoft-IIS/6.0
+>> ASP.NET
+>> 0.352633 sec
+www.telecel.net.py/
+>> Apache/2.2.8 (Unix) mod_ssl/2.2.8 OpenSSL/0.9.7d DAV/2 PHP/5.2.5
+>> None
+>> 0.269112 sec
+www.cde.rieder.net.py/
+>> Apache
+>> None
+>> 0.510507 sec
+www.spc.pla.net.py/
+>> Microsoft-IIS/5.0
+>> ASP.NET
+>> 0.274761 sec
+www.card.net.py/
+>> Microsoft-IIS/5.0
+>> None
+>> 0.294944 sec
+www.surmultimedia.net.py/
+>> Apache/2.0.54
+>> None
+>> 1.228865 sec
+www.webcorp.pla.net.py/
+>> Apache
+>> None
+>> 0.287832 sec
+www.paraway.net.py/
+>> Apache/2.2.4 (Unix) mod_ssl/2.2.4 OpenSSL/0.9.8e DAV/2 PHP/5.2.4
+>> PHP/5.2.4
+>> 0.257433 sec
+www.pla.net.py/
+>> Microsoft-IIS/5.0
+>> ASP.NET, PHP/4.3.1
+>> 1.376784 sec
+www.nap.net.py/
+>> Apache
+>> None
+>> 0.448319 sec
+www.bandaancha.net.py/
+>> Apache
+>> None
+>> 0.469946 sec
+www.adsl.net.py/
+>> Microsoft-IIS/5.0
+>> None
+>> 0.306089 sec
+www.tigo.net.py/
+>> Apache/2.2.8 (Unix) mod_ssl/2.2.8 OpenSSL/0.9.7d DAV/2 PHP/5.2.5
+>> None
+>> 0.259276 sec
+www.quanta.net.py/
+>> Apache
+>> None
+>> 0.205023 sec
+www.arandu.net.py/
+>> Apache/2.2.6 (Fedora)
+>> None
+>> 0.178661 sec
+www.par.net.py/
+>> Microsoft-IIS/5.0
+>> None
+>> 0.271912 sec
+www.libre.net.py/
+>> Apache
+>> None
+>> 0.528890 sec
+www.super.net.py/
+-----------------RIP-----------------
+www.cmm.net.py/
+>> Apache/2.0.52 (CentOS)
+>> None
+>> 1.025023 sec
+www.wide.net.py/
+>> Apache/2.2.4 (Linux/SUSE)
+>> PHP/5.2.4
+>> 0.360705 sec
+www.lacuadra.net.py/
+>> Apache
+>> None
+>> 0.444998 sec
+www.broadband.net.py/
+>> Apache
+>> None
+>> 0.449065 sec
+www.e-nap.net.py/
+>> Apache
+>> None
+>> 0.394743 sec
+www.rieder.net.py/
+>> Apache
+>> None
+>> 0.436014 sec
+
+-----------------RIP-----------------
