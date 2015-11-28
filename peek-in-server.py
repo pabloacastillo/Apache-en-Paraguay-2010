@@ -13,10 +13,10 @@ for line in f:
 	opener_web = urllib2.build_opener()
 	try:
 		headers = opener_web.open(request_web).info()
-		print '>> '+str(headers.getheader('Server'))
-		print '>> '+str(headers.getheader('X-Powered-By'))
+		print '>> SERVER 	:	'+str(headers.getheader('Server'))
+		print '>> POWERED 	:	'+str(headers.getheader('X-Powered-By'))
 		run_time = time.time() - start_time
-		print '>> %f sec' % run_time
+		print '>> TIME 		:	%f sec' % run_time
 	except urllib2.URLError, e:
 		print '-----------------RIP-----------------'
 
